@@ -16,7 +16,10 @@ fish
 Dairy
 
 milk
-
+egg
+yogurt
+butter
+cheese
 
 
 Pets
