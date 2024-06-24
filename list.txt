@@ -7,6 +7,9 @@ oranges
 
 Meat
 
+chicken
+rabbit
+fish
 
 
 
